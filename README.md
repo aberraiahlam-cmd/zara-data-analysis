@@ -34,15 +34,32 @@ Ce projet consiste à analyser les données d'une boutique Zara afin d'explorer 
 
 Analyse des différentes caractéristiques des produits Zara afin de mieux comprendre les données et d'identifier les tendances importantes.
 
-### 4. Visualisation
+##  Visualisations
 
-Création de graphiques pour représenter les résultats de l'analyse :
+### 1. Histogram of Prices
 
-* Distribution des prix
-* Analyse des catégories
-* Comparaison des produits
-* Relations entre les variables
-* Autres visualisations pertinentes
+Distribution des prix des produits Zara.
+
+![Histogram of Prices](visualisations/visualisation_01.png)
+
+### 2. Average Sales Volume by Product Category
+
+Comparaison du volume moyen des ventes selon les différentes catégories de produits.
+
+![Average Sales Volume by Product Category](visualisations/visualisation_02.png)
+
+### 3. Number of Products per Section
+
+Répartition du nombre de produits selon les différentes sections du catalogue Zara.
+
+![Number of Products per Section](visualisations/visualisation_03.png)
+
+### 4. Histogram of Sales Volume
+
+Distribution du volume des ventes des produits.
+
+![Histogram of Sales Volume](visualisations/visualisation_04.png)
+
 
 ## Résultats et visualisations
 
