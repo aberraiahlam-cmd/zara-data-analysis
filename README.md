@@ -44,6 +44,44 @@ Création de graphiques pour représenter les résultats de l'analyse :
 * Relations entre les variables
 * Autres visualisations pertinentes
 
+## Résultats et visualisations
+
+L'analyse des données Zara permet de mieux comprendre les caractéristiques des produits, leur répartition et les différentes tendances présentes dans le dataset.
+
+### Principaux résultats
+
+* Analyse de la distribution des prix des produits.
+* Identification des catégories de produits les plus représentées.
+* Comparaison des caractéristiques des différents produits.
+* Analyse des relations entre les variables disponibles.
+* Détection des tendances et des différences entre les catégories.
+* Utilisation de statistiques descriptives pour mieux comprendre les données.
+
+### Visualisations
+
+Plusieurs visualisations ont été réalisées afin de faciliter l'interprétation des résultats :
+
+*  Distribution des prix
+*  Répartition des produits par catégorie
+*  Comparaison des produits
+*  Analyse de la distribution des variables
+*  Analyse des relations entre les variables
+
+Les graphiques permettent de transformer les données brutes en informations facilement interprétables et de mettre en évidence les principales tendances du catalogue Zara.
+
+###  Insights
+
+L'analyse permet notamment d'identifier :
+
+* les catégories contenant le plus de produits ;
+* la répartition des prix ;
+* les produits présentant des caractéristiques particulières ;
+* les relations éventuelles entre les différentes variables ;
+* les tendances générales du catalogue analysé.
+
+> Les résultats détaillés et les visualisations sont disponibles dans le notebook `zara_analysis.ipynb`.
+
+
 ## Technologies utilisées
 
 * Python
